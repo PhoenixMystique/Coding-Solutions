@@ -1,4 +1,4 @@
-package day10;
+package day_10;
 
 public class partyEven {
 
