@@ -1,4 +1,4 @@
-package day_13;
+package codes.day_13;
 
 import java.util.ArrayList;
 import java.util.Collections;

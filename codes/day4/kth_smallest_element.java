@@ -7,6 +7,7 @@ public class kth_smallest_element {
     public static void main(String[] args) {
 
     }
+
     public static int kthSmallest(int[] arr, int l, int r, int k)
     {
         PriorityQueue<Integer> queue = new PriorityQueue<>();

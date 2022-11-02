@@ -1,4 +1,4 @@
-package day_13.ticTactToe;
+package codes.day_13.ticTactToe;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -33,8 +33,9 @@ public class ticTacToe {
               return true;
             }
         }
-        printBoard();
+
         System.out.println("\n\n______________________________________DRAW_______________________________________");
+        printBoard();
    return false;
    }
 
